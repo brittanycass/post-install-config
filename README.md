@@ -31,6 +31,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ### 1. Configure Roles
 - **Log in:** `Use the credentials you create during prereq & configuration`
+
+![image](https://github.com/user-attachments/assets/912cf994-6c04-45a1-aebb-2e0f56c5c064)
+
 <p </p>
 
 
