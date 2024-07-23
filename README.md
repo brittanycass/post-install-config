@@ -55,10 +55,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - **Navigate to:** `Admin Panel -> Agents -> Departments`
 - **Create Department:** `System Administrators`
  <p align="center"><img src="https://i.imgur.com/fqROXPN.png"/></p>
- 
- ![image](https://github.com/user-attachments/assets/f8207691-ebbb-4606-819a-4aa6be306301)
 
- <p align="center"><img src="https://i.imgur.com/rxSbBLt.png"/></p>
+ ![image](https://github.com/user-attachments/assets/f7372462-49d3-45bd-9116-fc9da34493ca)
+
+
+![image](https://github.com/user-attachments/assets/2225695a-7f71-4048-903c-4771cb1ad861)
+
+</p>
 
 ### 3. Configure Teams
 - **Navigate to:** `Admin Panel -> Agents -> Teams`
@@ -66,7 +69,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   - `Level I Support`
   - `Level II Support`
 <p align="center"><img src="https://i.imgur.com/ZEhlAPW.png"/></p>
-<p align="center"><img src="https://i.imgur.com/ZNGsGH8.png"/></p>
+
+![image](https://github.com/user-attachments/assets/83e7924c-16c7-4e5d-81ff-3c6c41d36da9)
+
 
 ### 4. Allow Anyone to Create Tickets
 - **Navigate to:** `Admin Panel -> Settings -> User Settings`
@@ -110,7 +115,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 -  **Go to:** `Teams Tab`
    - Assigned Teams: `Level II Support`
    - Click: `Create`
-<p align="center"><img src="https://i.imgur.com/QRFU7Bc.png"/></p>
+
+   ![image](https://github.com/user-attachments/assets/bf597264-8c45-44e4-ba2e-e6940457462b)
+
 
 
 ### 6. Configure Users (Customers)
@@ -148,36 +155,3 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Consult the osTicket [official documentation](https://docs.osticket.com/) for further details.
 
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-<h2>Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
